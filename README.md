@@ -11,11 +11,17 @@
   <a href="#tech-stack">Tech Stack</a> •
 </p>
 
+<h2 id="link">:computer: Link</h2>
+O link para visualização do projeto está aqui neste <a href="https://cracha-do-while-2021.vercel.app/">link</a>
+
+
+
 <h2 id="sobre">😊 Sobre</h2>
 
 Este projeto foi criado pela Rocketseat Boosters e apresentado no NLW Heat, o último NLW deste ano da Rocketseat. O projeto apresentado neste repositório foi criado na trilha Origem, onde pontos iniciais de HTML, CSS e JavaScript foram dados para iniciantes ou para aqueles que quisessem reforçar esse conhecimento teórico e técnico.
 
 O projeto inicial é completamente estático e não responde a vários dispositivos e foi um desafio, um estilo mais pessoal e a aplicação de responsividade. Usei a biblioteca Vanilla Tilt para adicionar movimento ao emblema e CSS para o resto das animações.
+
 
 <h2 id="layout">📐 Layout</h2>
 
