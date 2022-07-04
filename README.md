@@ -1,6 +1,6 @@
 ![logo-do-while](https://user-images.githubusercontent.com/94997593/177081240-eb4d68bd-89eb-4c42-b72b-153b52f03990.svg)
 
-<h2 align="center">🚀 Badge Do While 2021 - Subscribe to <a href="https://dowhile.io/inscricao">DoWhile 2021</a></h2>
+<h2 align="center">🚀 Badge DoWhile 2021 - Subscribe to <a href="https://dowhile.io/inscricao">DoWhile 2021</a></h2>
 
 ![Captura de tela 2022-07-04 011921](https://user-images.githubusercontent.com/94997593/177081461-d862485b-3f8e-4b4a-8d50-61f3bfd79f9b.gif)
 
