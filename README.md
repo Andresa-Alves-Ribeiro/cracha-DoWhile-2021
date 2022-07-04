@@ -1,19 +1,29 @@
-![logo-do-while](https://user-images.githubusercontent.com/94997593/177081240-eb4d68bd-89eb-4c42-b72b-153b52f03990.svg)
+<h1 align="center">
+  <img src="./github/logo-do-while.svg" width="480px">
+</h1>
+
 
 <h2 align="center">🚀 Badge DoWhile 2021 - Subscribe to <a href="https://dowhile.io/inscricao">DoWhile 2021</a></h2>
 
-![Captura de tela 2022-07-04 011921](https://user-images.githubusercontent.com/94997593/177081461-d862485b-3f8e-4b4a-8d50-61f3bfd79f9b.gif)
+
+<p align="center">
+  <img src="./github/Captura de tela 2022-07-04 011921.gif"
+    width="200px"
+    style="display: inline; border-radius: 15px; border: "
+  />
+</p>
 
 
 <p align="center">
+  <a href="#link">Link</a> •
   <a href="#sobre">Sobre</a> •
   <a href="#layout">Layout</a> •
   <a href="#tech-stack">Tech Stack</a> •
 </p>
 
+
 <h2 id="link">:computer: Link</h2>
 O link para visualização do projeto está aqui neste <a href="https://cracha-do-while-2021.vercel.app/">link</a>
-
 
 
 <h2 id="sobre">😊 Sobre</h2>
